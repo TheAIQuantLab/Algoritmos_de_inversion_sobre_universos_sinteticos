@@ -1,1 +1,3 @@
-# investment_algorithms_on_massive_universes
+# Algoritmos de inversion en universos sinteticos
+
+Este es un ejercicio del Máster de Inteligencia Artificial en Mercados Financieros de BME.
